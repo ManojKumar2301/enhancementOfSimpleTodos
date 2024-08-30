@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.l {
+  display: flex;
+  justify-content: space-between;
+}
+.b {
+  color: #ff0b37;
+  background-color: transparent;
+  border-color: #ff0b37;
+  border-radius: 2px;
+}
